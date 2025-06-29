@@ -1,0 +1,25 @@
+# Core I/O
+pandas
+openpyxl
+python-dotenv
+
+# Reddit API
+praw
+
+# Optional: VADER sentiment (for light/fast testing)
+vaderSentiment
+
+# FinBERT Sentiment Analysis (optional but recommended)
+transformers
+torch
+tqdm
+
+# Optional: Stock Price Ingestion
+yfinance
+
+# Optional: ML Modeling
+scikit-learn
+
+# Optional: Visualization
+matplotlib
+seaborn
